@@ -1,5 +1,5 @@
 /*
-Program Name: Simple Calculator
+Program Name: Temperature Converter
 Developer and Date: Harley Verunque / 07-20-2022
 Student No.: 2021-03542
 UP Mail: hnverunque@up.edu.ph
