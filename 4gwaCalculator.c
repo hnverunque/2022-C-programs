@@ -1,5 +1,5 @@
 /*
-Program Name: Simple Calculator
+Program Name: HS GWA Calculator
 Developer and Date: Harley Verunque / 07-19-2022
 Student No.: 2021-03542
 UP Mail: hnverunque@up.edu.ph
